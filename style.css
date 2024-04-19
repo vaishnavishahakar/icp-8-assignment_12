@@ -20,3 +20,23 @@ button{
     border-radius: 20px;
     font-size: 15px;
 }
+.ed-1{
+    background-color: aqua;
+    color: blue;
+    font-size: large;
+}
+.ed-2{
+    background-color: rgb(255, 92, 92);
+    color: wheat;
+    font-size: large;
+}
+.ed-3{
+    background-color: yellow;
+    color: palevioletred;
+    font-size: large;
+}
+.ed-4{
+    background-color: burlywood ;
+    color: brown;
+    font-size: large;
+}
