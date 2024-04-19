@@ -10,3 +10,13 @@
     text-align: center;
     font-size: 18px;
 }
+.content p{
+    background-color: bisque;
+    color: darkcyan;
+    font-size: large;
+}
+button{
+    background-color: rgb(228, 226, 226);
+    border-radius: 20px;
+    font-size: 15px;
+}
